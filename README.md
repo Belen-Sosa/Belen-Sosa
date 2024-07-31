@@ -5,7 +5,7 @@
 
 - 👨‍💻 algunos de mis proyectos estan disponibles en [www.linkedin.com/in/jorgelina-belen-sosa](www.linkedin.com/in/jorgelina-belen-sosa)
 
-- 💬 preguntame sobre **react, html, css, javascript , bootstrap, php,Jquery, NodeJS**
+- 💬 preguntame sobre **react, html, css, javascript , bootstrap, php,Jquery, NodeJS, Vue3 Y Laravel**
 
 - 📫 como contactarme **sosabelen597@gmail.com**
 
