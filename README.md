@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Mi nombre es Jorgelina Belen Sosa</h1>
-<h3 align="center">Apasionada desarrolladora full-stack de Argentina</h3>
+<h3 align="center">Apasionada desarrolladora web de Argentina</h3>
 
 - 🌱 actualmente aprendiendo **ReactJs, NodeJs,typescript**
 
