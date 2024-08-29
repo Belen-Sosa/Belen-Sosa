@@ -3,7 +3,7 @@
 
 - 🌱 actualmente aprendiendo **ReactJs, NodeJs,typescript**
 
-- 👨‍💻 algunos de mis proyectos estan disponibles en [www.linkedin.com/in/jorgelina-belen-sosa](www.linkedin.com/in/jorgelina-belen-sosa)
+- 👨‍💻 algunos de mis proyectos estan disponibles en [mi portafolio](https://belen-sosa.github.io/JBS/)
 
 - 💬 preguntame sobre **React Js , Html, Css, Javascript , Bootstrap, php,Jquery, NodeJS, Vue3 Y Laravel**
 
