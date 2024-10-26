@@ -1,6 +1,7 @@
 <h1 align="center">Hola 👋, soy Belen</h1>
 <h3 align="center">Apasionada desarrolladora web de Argentina</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ff/d9/b4/ffd9b46366e14141790a80d4922485bf.gif" >
+
+<img align="right" width=300px alt="Coding" src="https://i.pinimg.com/originals/ff/d9/b4/ffd9b46366e14141790a80d4922485bf.gif" />
 
 - 🔭 Actualmente estoy trabajando en [E-COMMERCE](https://github.com/Belen-Sosa/E-COMMERCE)
 
