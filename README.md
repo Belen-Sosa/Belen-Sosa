@@ -5,11 +5,11 @@
 
 - 🔭 Actualmente estoy trabajando en [E-COMMERCE](https://github.com/Belen-Sosa/E-COMMERCE)
 
-- 🌱 Actualmente estoy aprendiendo **Express, node, docker**
+- 🌱 Actualmente estoy aprendiendo **Redux**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://belen-sosa.github.io/JBS/](https://belen-sosa.github.io/JBS/)
 
-- 💬 Pregúntame sobre **Laravel, Vue, ReactJs, JavaScript, Mysql, html, css**
+- 💬 Pregúntame sobre **Vue, ReactJs, JavaScript, html, css**
 
 - 📫 Cómo llegar a mí **sosabelen597@gmail.com**
 
