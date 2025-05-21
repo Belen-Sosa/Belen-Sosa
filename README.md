@@ -1,6 +1,9 @@
 <h1 align="center">Hola 👋, soy Belen</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Belen-Sosa&label=Vistas%20de%20perfil&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 <h3 align="center">Apasionada desarrolladora web de Argentina</h3>
-![Profile views](https://komarev.com/ghpvc/?username=Belen-Sosa&label=Vistas%20de%20perfil&color=0e75b6&style=flat)
 
 <img align="right" width=300px alt="Coding" src="https://i.pinimg.com/originals/ff/d9/b4/ffd9b46366e14141790a80d4922485bf.gif" />
 
